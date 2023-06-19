@@ -9,7 +9,7 @@ I am a developer who designs web applications and websites. I write hacking and 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning new languages
 
-<a href="https://www.github.com/7cod3r" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/yekdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/7cod3r?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 ### Badges
