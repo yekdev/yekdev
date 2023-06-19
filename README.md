@@ -7,12 +7,10 @@ Web and Application Developer
 I am a developer who designs web applications and websites. I write hacking and simple automations with bash scripts. You can visit my website to browse the content about me.
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning new languages
+* 🧠  I'm student
 
 <a href="https://www.github.com/yekdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yekdev?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
