@@ -45,7 +45,8 @@ I have deep expertise across the Laravel ecosystem, building scalable, performan
 ---
 
 ## 📬 Contact Me
-- ✉️ **Email:** ender1coder@gmail.com  
-- 🌐 **GitHub:** [github.com/endercoder](https://github.com/endercoder)  
+- ✉️ **Email:** info@endercoder.com
+- 💬 **Telegram:** [@ender1coder](https://t.me/ender1coder)  
+- 🌐 **GitHub:** [github.com/endercoder](https://github.com/yekdev)  
 
 💡 *“Clean Code, Scalable Systems, Modern Solutions”* is my philosophy.  
